@@ -5,7 +5,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # --- CẤU HÌNH ---
-CONFIG_FILE = "config_facebook_exTok.json"
+CONFIG_FILE = "config_facebook_exTok_V1.json"
 BASE_URL = "https://api.extok.net/api"
 print_lock = threading.Lock()
 
